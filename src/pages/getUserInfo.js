@@ -141,7 +141,7 @@ const getUserInfo = () => {
     education: [
       {
         institution: "Mg higher secondary school, Ahmedabad",
-        degree: "Hsc science",
+        degree: "Hsc commerce",
         duration: "2021-2022",
         grade: "50%",
       },
@@ -149,7 +149,7 @@ const getUserInfo = () => {
         institution: "Ganpat University",
         degree: "Bachelor of science in information technology",
         duration: "Augest 2022 - Augest 2025",
-        grade: "A",
+        grade: "B",
       },
     ],
     certifications: [
